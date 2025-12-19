@@ -1,7 +1,0 @@
-com\patientcentre\analytics\config\BufferConfig.class
-com\patientcentre\analytics\config\DropPolicy.class
-com\patientcentre\analytics\config\AnalyticsConfigLoader.class
-com\patientcentre\analytics\api\AnalyticsApi.class
-com\patientcentre\analytics\core\AnalyticsBuffer.class
-com\patientcentre\analytics\scheduling\ExecutorScheduler.class
-com\patientcentre\analytics\scheduling\Scheduler.class
